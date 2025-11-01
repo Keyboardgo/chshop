@@ -5,6 +5,7 @@
 4、代码进行优化
 5、直客接口更新
 6、仿易客手机端模板等多款模板
+7、修复BUG
 ## 一、环境要求
 - 操作系统：推荐 Linux（CentOS 7+/Ubuntu 18+），Windows 也可
 - Web服务器：Nginx 或 Apache
